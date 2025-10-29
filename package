@@ -1,0 +1,14 @@
+{
+  "name": "tokenride-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "aws-sdk": "^2.1563.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
